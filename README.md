@@ -2,7 +2,8 @@
 
 `GP2 ❤️ Open Science 😍`
 
-\[DOI: pending] under **CC-BY license**
+[![DOI](https://zenodo.org/badge/1132863077.svg)](https://doi.org/10.5281/zenodo.18232864) 
+under **CC-BY license**
 
 **Last Updated:** January 2026
 
@@ -40,7 +41,7 @@ Genotype imputation was performed using the **Taiwan Biobank Imputation Server**
 If you use this repository or find it helpful for your research, please cite the corresponding manuscript:
 
 > **Genome-Wide Association and Population-Tailored Polygenic Risk for Parkinson's Disease in Taiwan**
-> *\[Authors, Global Parkinson's Genetics Program (GP2), 2025]* (DOI: pending)
+> *\[Authors, Global Parkinson's Genetics Program (GP2), 2025]* (DOI: 10.5281/zenodo.18232864)
 
 
 ---
